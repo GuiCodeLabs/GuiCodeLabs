@@ -1,91 +1,101 @@
-## 👨‍💻 Guilherme Cavalcante
-**Estudante de Análise e Desenvolvimento de Sistemas**
-
-### 👋 Sobre mim
-Me chamo Guilherme e sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 3º semestre. Sou técnico na área e estou em busca da minha primeira oportunidade de estágio em Tecnologia da Informação.
-
-Tenho conhecimentos em desenvolvimento web, adquiridos por meio da faculdade, cursos e projetos pessoais, utilizando tecnologias como HTML, CSS, JavaScript, PHP, MySQL e Python.
-
-Sou uma pessoa dedicada, com interesse constante em aprendizado, evolução técnica e crescimento profissional na área de TI.
-
----
-
-### 🧠 Tecnologias e Ferramentas
-
 <div align="center">
 
-**Front-end**  
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/>
+<a href="https://github.com/GuiCodeLabs">
+  <img src="https://avatars.githubusercontent.com/u/173941502?v=4" width="120" alt="Foto de perfil de Guilherme Beserra" />
+</a>
 
-<br/>
+<h1>Olá, eu sou o Guilherme! 👋</h1>
 
-**Back-end**  
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32"/>
+<h3>Desenvolvedor Back-end · Python &amp; Django</h3>
 
-<br/>
+<p>Estudante de Análise e Desenvolvimento de Sistemas no UNIPÊ | Desenvolvimento web full stack com foco em back-end</p>
 
-**Ferramentas**  
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32"/>
+<p>
+  <a href="https://github.com/GuiCodeLabs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/guicodelabs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:guilhermebeserra2007@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&amp;logoColor=white" alt="E-mail" /></a>
+</p>
 
 </div>
 
 ---
 
-### 📊 Estatísticas
+### 👨‍💻 Sobre mim
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuiCodeLabs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="165" alt="stats graph"  
-  />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=GuiCodeLabs&layout=compact&langs_count=5&theme=dracula&locale=pt-br" 
-    height="165"
-  />
-</div>
+Sou estudante de **Análise e Desenvolvimento de Sistemas no UNIPÊ** e direciono meus estudos para o desenvolvimento **back-end**. Gosto de transformar necessidades em aplicações web, APIs e soluções organizadas, aprendendo também as tecnologias de front-end para entender o produto de ponta a ponta.
 
+Atualmente, meu foco está em **Python, Django, APIs REST e bancos de dados**, além de boas práticas de desenvolvimento e arquitetura de software.
+
+### 🏢 Northeast Software
+
+<table>
+  <tr>
+    <td align="center" valign="middle" width="120">
+      <a href="https://github.com/Northeast-Corp">
+        <img src="https://github.com/Northeast-Corp.png?size=160" width="88" alt="Perfil da Northeast Software no GitHub" />
+      </a>
+    </td>
+    <td valign="middle">
+      <strong><a href="https://github.com/Northeast-Corp">Northeast Software</a></strong><br />
+      Sócio fundador · Diretor de Software<br />
+      <sub><a href="https://github.com/Northeast-Corp">Conheça a Northeast no GitHub →</a></sub>
+    </td>
+  </tr>
+</table>
+
+### 🧰 Tecnologias e ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&amp;logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&amp;logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&amp;logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&amp;logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&amp;logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&amp;logoColor=white" alt="Git" />
+</p>
+
+### 🚀 Projetos em destaque
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/GuiCodeLabs/JURI-AI">⚖️ JURI-AI</a></h3>
+      <p>Plataforma web para gestão de clientes e documentos jurídicos, com autenticação, organização de documentos e recursos de automação em desenvolvimento.</p>
+      <sub>Python · Django · SQLite/PostgreSQL</sub>
+    </td>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/GuiCodeLabs/EduConnect">🎓 EduConnect</a></h3>
+      <p>Sistema de gestão escolar com recursos para alunos, professores e secretaria, incluindo notas, frequência, mensagens e boletins.</p>
+      <sub>PHP · MySQL</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/GuiCodeLabs?tab=repositories"><strong>Veja meus outros repositórios →</strong></a>
+</p>
+
+### 🌱 No que estou focado
+
+- Criar aplicações e **APIs REST** com Python e Django.
+- Aprimorar conhecimentos em bancos de dados, arquitetura e qualidade de código.
+- Ampliar minha experiência full stack mantendo o back-end como foco principal.
 
 ---
 
-### 📫 Contato
-
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCsfE2DZ8wBbET2EK-62h_xg" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" height="40"/>
-  </a>
-  <a href="mailto:guilhermebeserra2007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/guilherme-cavalcante-4398a9289/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/guilherme_.beserra" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40"/>
-  </a>
+
+<h3>🤝 Vamos conversar?</h3>
+
+Estou aberto a trocar ideias sobre tecnologia, desenvolvimento web e projetos.
+
+<a href="https://www.linkedin.com/in/guicodelabs/">LinkedIn</a> · <a href="https://github.com/GuiCodeLabs">GitHub</a> · <a href="mailto:guilhermebeserra2007@gmail.com">E-mail</a>
+
+<sub>Feito por Guilherme Cavalcante Beserra · GuiCodeLabs</sub>
+
 </div>
 
----
-
-<div align="center">
-  <img height="180" src="https://media.tenor.com/qZTaKj4UL00AAAAi/okay.gif"/>
-</div>

@@ -29,5 +29,8 @@ jobs:
         with:
           target_branch: stats-output
           build_dir: dist
+          author: "Guilherme Beserra <173941502+GuiCodeLabs@users.noreply.github.com>"
+          committer: "Guilherme Beserra <173941502+GuiCodeLabs@users.noreply.github.com>"
+          commit_message: "chore(stats): atualiza cartão de estatísticas"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

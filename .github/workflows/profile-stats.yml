@@ -31,7 +31,7 @@ jobs:
 
       - name: Baixar o repositório
         if: env.PROFILE_STATS_ENABLED == 'true'
-        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
 
       # O token fica apenas nos inputs da acao, nunca no README ou nos SVGs.
       - name: Gerar estatísticas de todo o período
@@ -41,7 +41,7 @@ jobs:
           card: stats
           options: username=GuiCodeLabs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=pt-br
           path: profile/stats.svg
-          core_version: 2.1.3
+          core_version: 2.2.0
           token: ${{ secrets.PROFILE_STATS_TOKEN }}
           fail_on_error: true
 
@@ -52,7 +52,7 @@ jobs:
           card: stats
           options: username=GuiCodeLabs&show_icons=true&hide=stars,prs,issues,contribs&hide_rank=true&custom_title=Commits%20neste%20ano&card_width=360&theme=tokyonight&hide_border=true&locale=pt-br
           path: profile/commits-year.svg
-          core_version: 2.1.3
+          core_version: 2.2.0
           token: ${{ secrets.PROFILE_STATS_TOKEN }}
           fail_on_error: true
 

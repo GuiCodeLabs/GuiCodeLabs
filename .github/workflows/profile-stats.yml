@@ -21,38 +21,68 @@ jobs:
     timeout-minutes: 20
     permissions:
       contents: write
+    env:
+      PROFILE_STATS_ENABLED: ${{ secrets.PROFILE_STATS_TOKEN != '' }}
 
     steps:
+      - name: Aguardar o secret do perfil
+        if: env.PROFILE_STATS_ENABLED != 'true'
+        run: echo 'Configure o secret PROFILE_STATS_TOKEN e execute este workflow para ativar os cartões.'
+
       - name: Baixar o repositório
+        if: env.PROFILE_STATS_ENABLED == 'true'
         uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
 
-      # PROFILE_STATS_TOKEN e um secret opcional. Sem ele, github.token gera
-      # os mesmos dados publicos; com ele, a API inclui repositorios privados
-      # aos quais o dono da conta deu acesso.
+      # O token fica apenas nos inputs da acao, nunca no README ou nos SVGs.
       - name: Gerar estatísticas de todo o período
+        if: env.PROFILE_STATS_ENABLED == 'true'
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: stats
           options: username=GuiCodeLabs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=pt-br
           path: profile/stats.svg
           core_version: 2.1.3
-          token: ${{ secrets.PROFILE_STATS_TOKEN || github.token }}
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
           fail_on_error: true
 
       - name: Gerar commits deste ano
+        if: env.PROFILE_STATS_ENABLED == 'true'
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: stats
           options: username=GuiCodeLabs&show_icons=true&hide=stars,prs,issues,contribs&hide_rank=true&custom_title=Commits%20neste%20ano&card_width=360&theme=tokyonight&hide_border=true&locale=pt-br
           path: profile/commits-year.svg
           core_version: 2.1.3
-          token: ${{ secrets.PROFILE_STATS_TOKEN || github.token }}
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
           fail_on_error: true
 
-      - name: Publicar cartões gerados
+      - name: Vincular os cartões no README após a geração
+        if: env.PROFILE_STATS_ENABLED == 'true'
         shell: bash
         run: |
-          git add -- profile/stats.svg profile/commits-year.svg
+          python - <<'PY'
+          from pathlib import Path
+
+          readme = Path("README.md")
+          original = readme.read_text(encoding="utf-8")
+          replacements = {
+              "https://github-readme-stats.vercel.app/api?username=GuiCodeLabs&amp;show_icons=true&amp;include_all_commits=true&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt-br": "./profile/stats.svg",
+              "https://github-readme-stats.vercel.app/api?username=GuiCodeLabs&amp;show_icons=true&amp;hide=stars,prs,issues,contribs&amp;hide_rank=true&amp;custom_title=Commits%20neste%20ano&amp;card_width=360&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt-br": "./profile/commits-year.svg",
+              "Estatísticas públicas de Guilherme no GitHub": "Estatísticas de Guilherme no GitHub",
+              "Quantidade de commits públicos de Guilherme no ano atual": "Quantidade de commits de Guilherme no ano atual",
+          }
+          updated = original
+          for old, new in replacements.items():
+              updated = updated.replace(old, new)
+          if updated != original:
+              readme.write_text(updated, encoding="utf-8")
+          PY
+
+      - name: Publicar cartões gerados
+        if: env.PROFILE_STATS_ENABLED == 'true'
+        shell: bash
+        run: |
+          git add -- profile/stats.svg profile/commits-year.svg README.md
           if ! git diff --cached --quiet; then
             git -c user.name='github-actions[bot]' \
               -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \

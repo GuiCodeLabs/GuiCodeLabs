@@ -126,15 +126,15 @@ Tenho aplicado programação em sistemas web e na **automação de processos e r
 ## 📊 Status do GitHub
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/GuiCodeLabs/GuiCodeLabs/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/GuiCodeLabs/GuiCodeLabs/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="190" alt="stats graph" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/GuiCodeLabs/GuiCodeLabs/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/GuiCodeLabs/GuiCodeLabs/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="190" alt="languages graph" />
 </div>
 
 <br />
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=GuiCodeLabs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&card_width=735&card_height=180" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=GuiCodeLabs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&card_width=790&card_height=190" alt="streak graph" />
 </div>
 
 ## 🌱 Em desenvolvimento

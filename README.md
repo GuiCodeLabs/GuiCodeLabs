@@ -118,21 +118,19 @@ Tenho aplicado programação em sistemas web e na **automação de processos e r
 ## 📊 GitHub em números
 
 <p align="center">
-  <a href="https://github.com/GuiCodeLabs/github-profile-card">
-    <img src="https://guicodelabs-profile-card.vercel.app/api/card?type=stats&amp;locale=pt-BR" width="520" alt="Atividade de Guilherme: contribuições do calendário em todo o período e em 2026, commits públicos nos dois períodos, estrelas, PRs, issues e visitas" />
-  </a>
+  <a href="https://github.com/GuiCodeLabs/github-profile-card"><img src="https://guicodelabs-profile-card.vercel.app/api/card?type=stats&amp;locale=pt-BR" width="410" alt="Contribuições totais e em 2026, atividade privada anônima, commits visíveis, estrelas, PRs, issues e visitas de Guilherme" /></a>
+  <img src="https://raw.githubusercontent.com/GuiCodeLabs/github-profile-card/main/profile/languages.svg" width="410" alt="Linguagens de código dos repositórios públicos de Guilherme" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GuiCodeLabs/github-profile-card/main/profile/languages.svg" width="520" alt="Linguagens por bytes de código nos repositórios públicos de Guilherme" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GuiCodeLabs/github-profile-card/main/profile/rhythm.svg" width="520" alt="Sequência atual, maior sequência e atividade recente de Guilherme no calendário do GitHub" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/GuiCodeLabs/github-profile-card/main/profile/rhythm-mobile.svg" />
+    <img src="https://raw.githubusercontent.com/GuiCodeLabs/github-profile-card/main/profile/rhythm.svg" width="840" alt="Total de contribuições, sequência atual, maior sequência e atividade recente no GitHub" />
+  </picture>
 </p>
 
 <div align="center">
-  <p><sub>Contribuições são atividades do calendário, incluindo contagens privadas anônimas quando habilitadas. Commits públicos são uma parte desse total. Linguagens mostram bytes de código, não experiência.</sub></p>
+  <p><sub>O total do calendário inclui contribuições privadas anônimas. O número de commits mostra apenas os visíveis publicamente; não representa o total de commits privados. Linguagens mostram bytes de código.</sub></p>
   <p><sub><a href="https://github.com/GuiCodeLabs/github-profile-card">Código aberto dos cartões · licença MIT · idiomas PT-BR, EN e ES</a></sub></p>
 </div>
 

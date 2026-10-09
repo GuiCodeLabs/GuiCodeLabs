@@ -49,22 +49,21 @@ Tenho aplicado programação em sistemas web e na **automação de processos e r
 **Back-end e dados**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cdjango%2Cpostgres%2Cphp%2Cmysql&amp;perline=5&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cdjango%2Cpostgres%2Cphp%2Cmysql&amp;perline=5&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=py%2Cdjango%2Cpostgres%2Cphp%2Cmysql&amp;perline=5&amp;theme=dark" alt="Ícones de Python, Django, PostgreSQL, PHP e MySQL" />
+  </picture>
 </p>
 
 **Front-end**
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Creact%2Cnextjs%2Chtml%2Ccss&amp;perline=6&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Creact%2Cnextjs%2Chtml%2Ccss&amp;perline=6&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=js%2Cts%2Creact%2Cnextjs%2Chtml%2Ccss&amp;perline=6&amp;theme=dark" alt="Ícones de JavaScript, TypeScript, React, Next.js, HTML e CSS" />
+  </picture>
 </p>
 
 **Ferramentas**
@@ -127,19 +126,19 @@ Tenho aplicado programação em sistemas web e na **automação de processos e r
 ## 📊 Status do GitHub
 
 <p align="center">
-  <a href="https://github.com/GuiCodeLabs/github-profile-card"><img src="https://guicodelabs-profile-card.vercel.app/api/card?type=stats&amp;locale=pt-BR" width="410" alt="Contribuições de 2026 públicas e privadas anônimas, commits visíveis, estrelas, PRs, issues e visitas de Guilherme" /></a>
-  <img src="https://raw.githubusercontent.com/GuiCodeLabs/github-profile-card/main/profile/languages.svg" width="410" alt="Linguagens agregadas dos repositórios incluídos no cartão" />
+  <a href="https://github.com/GuiCodeLabs/github-profile-card"><img src="https://raw.githubusercontent.com/GuiCodeLabs/github-profile-card/stats-output/profile/stats.svg" width="410" alt="Status do GitHub: nota anual, contribuições, commits, repositórios, estrelas, PRs e issues" /></a>
+  <img src="https://raw.githubusercontent.com/GuiCodeLabs/github-profile-card/stats-output/profile/languages.svg" width="410" alt="Linguagens agregadas dos repositórios públicos e privados acessíveis" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/GuiCodeLabs/github-profile-card/main/profile/rhythm-mobile.svg" />
-    <img src="https://raw.githubusercontent.com/GuiCodeLabs/github-profile-card/main/profile/rhythm.svg" width="840" alt="Total de contribuições, sequência atual, maior sequência e atividade recente no GitHub" />
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/GuiCodeLabs/github-profile-card/stats-output/profile/rhythm-mobile.svg" />
+    <img src="https://raw.githubusercontent.com/GuiCodeLabs/github-profile-card/stats-output/profile/rhythm.svg" width="840" alt="Sequência de contribuições, mapa de atividade recente e conquistas do ano no GitHub" />
   </picture>
 </p>
 
 <div align="center">
-  <p><sub>Contagens privadas aparecem apenas de forma agregada quando o token somente de leitura está configurado; linguagens privadas entram após selecionar os repositórios no token granular. Nomes e código de repositórios privados não são publicados.</sub></p>
+  <p><sub>Contagens e linguagens privadas aparecem de forma agregada depois de configurar os tokens opcionais; nomes e código de repositórios privados não são publicados.</sub></p>
   <p><sub><a href="https://github.com/GuiCodeLabs/github-profile-card">Cartões e gerador web · código aberto · licença MIT · PT-BR, EN e ES</a></sub></p>
 </div>
 
@@ -173,6 +172,7 @@ O Pac-Man percorre meu calendário de contribuições. A animação é atualizad
     <a href="https://www.linkedin.com/in/guicodelabs/">LinkedIn</a> ·
     <a href="https://github.com/GuiCodeLabs/Portfolio">Portfólio em construção</a>
   </p>
+  <p><img src="https://komarev.com/ghpvc/?username=GuiCodeLabs&amp;style=flat-square&amp;label=visitas+do+perfil" alt="Contador de visitas ao perfil" /></p>
   <p><sub>Guilherme Cavalcante Beserra · GuiCodeLabs</sub></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;section=footer&amp;theme=cobalt" width="100%" alt="Faixa azul ondulada de encerramento" />
 </div>

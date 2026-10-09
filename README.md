@@ -125,27 +125,10 @@ Tenho aplicado programação em sistemas web e na **automação de processos e r
 
 ## 📊 Status do GitHub
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=GuiCodeLabs&show_icons=true&include_all_commits=true&card_width=400&custom_title=Resumo&title_color=58A6FF&icon_color=79C0FF&text_color=E6EDF3&bg_color=1F232B&border_color=5D626F&hide_border=false&locale=pt-br&rank_icon=percentile&ring_color=58A6FF"
-    height="200"
-    alt="Resumo das estatísticas públicas do GitHub"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCodeLabs&layout=compact&langs_count=8&card_width=400&custom_title=Principais%20linguagens&title_color=58A6FF&text_color=E6EDF3&bg_color=1F232B&border_color=5D626F&hide_border=false&locale=pt-br"
-    height="200"
-    alt="Linguagens dos repositórios públicos próprios"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=GuiCodeLabs&theme=dark&hide_border=false&background=1F232B&border=5D626F&stroke=5D626F&ring=58A6FF&fire=79C0FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=E6EDF3&dates=9EA7B3&locale=pt_BR&hide_total_contributions=true"
-    width="100%"
-    alt="Sequência atual e maior sequência de contribuições no GitHub"
-  />
-</p>
-
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/GuiCodeLabs/GuiCodeLabs/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/GuiCodeLabs/GuiCodeLabs/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 ## 🕹️ Contribuições em movimento
 
 O Pac-Man percorre meu calendário de contribuições. A animação é atualizada automaticamente no repositório do perfil.

@@ -122,6 +122,9 @@ Tenho aplicado programação em sistemas web e na **automação de processos e r
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCodeLabs&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="Linguagens dos repositórios públicos de Guilherme" />
   <br />
   <img src="https://streak-stats.demolab.com/?user=GuiCodeLabs&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt_BR" alt="Total de contribuições e sequências atual e mais longa no GitHub" />
+  <p>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=GuiCodeLabs.GuiCodeLabs&amp;left_text=Visitas%20ao%20perfil" alt="Contador de visualizações do perfil" />
+  </p>
 </div>
 
 ## 🕹️ Contribuições em movimento
@@ -154,7 +157,6 @@ O Pac-Man percorre meu calendário de contribuições. A animação é atualizad
     <a href="https://www.linkedin.com/in/guicodelabs/">LinkedIn</a> ·
     <a href="https://github.com/GuiCodeLabs/Portfolio">Portfólio em construção</a>
   </p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GuiCodeLabs.GuiCodeLabs" alt="Visualizações do perfil" />
   <p><sub>Guilherme Cavalcante Beserra · GuiCodeLabs</sub></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;section=footer&amp;theme=cobalt" width="100%" alt="Faixa azul ondulada de encerramento" />
 </div>

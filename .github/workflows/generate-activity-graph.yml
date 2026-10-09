@@ -13,17 +13,18 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
+      - uses: actions/checkout@v6
+
       - name: generate activity-graph.svg
-        run: |
-          mkdir -p dist
-          curl --fail --silent --show-error --location \
-            "https://github-readme-activity-graph.vercel.app/graph?username=GuiCodeLabs&radius=16&theme=dracula&area=true" \
-            --output dist/activity-graph.svg
-          test -s dist/activity-graph.svg
-          grep -q "<svg" dist/activity-graph.svg
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: radius=16&theme=dracula&area=true&height=300
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: push activity-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

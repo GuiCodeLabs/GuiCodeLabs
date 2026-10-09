@@ -29,5 +29,8 @@ jobs:
         with:
           target_branch: languages-output
           build_dir: dist
+          author: "Guilherme Beserra <173941502+GuiCodeLabs@users.noreply.github.com>"
+          committer: "Guilherme Beserra <173941502+GuiCodeLabs@users.noreply.github.com>"
+          commit_message: "chore(stats): atualiza cartão de linguagens"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -132,7 +132,7 @@ Tenho aplicado programação em sistemas web e na **automação de processos e r
     alt="Resumo das estatísticas públicas do GitHub"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCodeLabs&layout=compact&langs_count=5&card_width=320&custom_title=Principais%20linguagens&title_color=58A6FF&text_color=E6EDF3&bg_color=1F232B&border_color=5D626F&hide_border=false&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCodeLabs&layout=compact&langs_count=5&card_width=380&custom_title=Principais%20linguagens&title_color=58A6FF&text_color=E6EDF3&bg_color=1F232B&border_color=5D626F&hide_border=false&locale=pt-br"
     height="200"
     alt="Linguagens dos repositórios públicos próprios"
   />

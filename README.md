@@ -118,8 +118,8 @@ Tenho aplicado programação em sistemas web e na **automação de processos e r
 ## 📊 GitHub em números
 
 <p align="center">
-  <a href="https://github.com/GuiCodeLabs/github-profile-card"><img src="https://guicodelabs-profile-card.vercel.app/api/card?type=stats&amp;locale=pt-BR" width="410" alt="Contribuições totais e em 2026, atividade privada anônima, commits visíveis, estrelas, PRs, issues e visitas de Guilherme" /></a>
-  <img src="https://raw.githubusercontent.com/GuiCodeLabs/github-profile-card/main/profile/languages.svg" width="410" alt="Linguagens de código dos repositórios públicos de Guilherme" />
+  <a href="https://github.com/GuiCodeLabs/github-profile-card"><img src="https://guicodelabs-profile-card.vercel.app/api/card?type=stats&amp;locale=pt-BR" width="410" alt="Contribuições de 2026 públicas e privadas anônimas, commits visíveis, estrelas, PRs, issues e visitas de Guilherme" /></a>
+  <img src="https://raw.githubusercontent.com/GuiCodeLabs/github-profile-card/main/profile/languages.svg" width="410" alt="Linguagens agregadas dos repositórios incluídos no cartão" />
 </p>
 
 <p align="center">
@@ -130,7 +130,7 @@ Tenho aplicado programação em sistemas web e na **automação de processos e r
 </p>
 
 <div align="center">
-  <p><sub>Quando ativadas, contribuições privadas entram anonimamente no calendário. Commits mostram apenas atividade visível publicamente e não revelam repositórios privados. Linguagens refletem bytes de código dos repositórios públicos próprios.</sub></p>
+  <p><sub>Quando ativadas, contribuições privadas entram anonimamente no calendário. Commits mostram apenas atividade visível publicamente e não revelam repositórios privados. Linguagens são agregadas; repositórios privados só entram quando o token granular somente de leitura está configurado.</sub></p>
   <p><sub><a href="https://github.com/GuiCodeLabs/github-profile-card">Código aberto dos cartões · licença MIT · idiomas PT-BR, EN e ES</a></sub></p>
 </div>
 

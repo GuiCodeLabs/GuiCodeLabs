@@ -126,15 +126,15 @@ Tenho aplicado programação em sistemas web e na **automação de processos e r
 ## 📊 Status do GitHub
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/GuiCodeLabs/GuiCodeLabs/stats-output/stats-card.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="190" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/GuiCodeLabs/GuiCodeLabs/stats-output/stats-card.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" width="400" height="190" alt="stats graph" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/GuiCodeLabs/GuiCodeLabs/languages-output/languages-card.svg?locale=en&hide_title=false&layout=compact&card_width=400&langs_count=7&theme=tokyonight&hide_border=false&order=2" height="190" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/GuiCodeLabs/GuiCodeLabs/languages-output/languages-card.svg?locale=en&hide_title=false&layout=compact&card_width=400&langs_count=7&theme=tokyonight&hide_border=false&order=2" width="400" height="190" alt="languages graph" />
 </div>
 
 <br />
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=GuiCodeLabs&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&card_width=796&card_height=190" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=GuiCodeLabs&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&card_width=817&card_height=190" alt="streak graph" />
 </div>
 
 ## 🌱 Em desenvolvimento

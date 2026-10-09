@@ -130,7 +130,7 @@ Tenho aplicado programação em sistemas web e na **automação de processos e r
 </p>
 
 <div align="center">
-  <p><sub>O total do calendário inclui contribuições privadas anônimas. O número de commits mostra apenas os visíveis publicamente; não representa o total de commits privados. Linguagens mostram bytes de código.</sub></p>
+  <p><sub>Quando ativadas, contribuições privadas entram anonimamente no calendário. Commits mostram apenas atividade visível publicamente e não revelam repositórios privados. Linguagens refletem bytes de código dos repositórios públicos próprios.</sub></p>
   <p><sub><a href="https://github.com/GuiCodeLabs/github-profile-card">Código aberto dos cartões · licença MIT · idiomas PT-BR, EN e ES</a></sub></p>
 </div>
 

@@ -127,7 +127,7 @@ Tenho aplicado programação em sistemas web e na **automação de processos e r
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=GuiCodeLabs&show_icons=true&include_all_commits=true&card_width=480&custom_title=Resumo&title_color=58A6FF&icon_color=79C0FF&text_color=E6EDF3&bg_color=1F232B&border_color=5D626F&hide_border=false&locale=pt-br&rank_icon=percentile&ring_color=58A6FF"
+    src="https://github-readme-stats.vercel.app/api?username=GuiCodeLabs&show_icons=true&include_all_commits=true&card_width=430&custom_title=Resumo&title_color=58A6FF&icon_color=79C0FF&text_color=E6EDF3&bg_color=1F232B&border_color=5D626F&hide_border=false&locale=pt-br&rank_icon=percentile&ring_color=58A6FF"
     height="200"
     alt="Resumo das estatísticas públicas do GitHub"
   />

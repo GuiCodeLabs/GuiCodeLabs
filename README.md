@@ -128,7 +128,7 @@ Tenho aplicado programação em sistemas web e na **automação de processos e r
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/GuiCodeLabs/GuiCodeLabs/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="190" alt="stats graph" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/GuiCodeLabs/GuiCodeLabs/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=400&langs_count=7&theme=tokyonight&hide_border=false&order=2" height="190" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/GuiCodeLabs/GuiCodeLabs/languages-output/languages-card.svg?locale=en&hide_title=false&layout=compact&card_width=400&langs_count=7&theme=tokyonight&hide_border=false&order=2" height="190" alt="languages graph" />
 </div>
 
 <br />

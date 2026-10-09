@@ -117,23 +117,23 @@ Tenho aplicado programação em sistemas web e na **automação de processos e r
 
 ## 📊 GitHub em números
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/GuiCodeLabs/github-profile-card">
-        <img src="https://raw.githubusercontent.com/GuiCodeLabs/github-profile-card/main/profile/stats.svg" width="100%" alt="Estatísticas de Guilherme: estrelas, commits públicos de todo o período e do ano atual, pull requests, issues e visitas ao perfil" />
-      </a>
-      <img src="https://komarev.com/ghpvc/?username=GuiCodeLabs&amp;style=pixel" width="1" height="1" alt="" />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCodeLabs&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight&amp;hide_border=true" width="100%" alt="Linguagens dos repositórios públicos de Guilherme" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/GuiCodeLabs/github-profile-card">
+    <img src="https://guicodelabs-profile-card.vercel.app/api/card?type=stats&amp;locale=pt-BR" width="520" alt="Atividade de Guilherme: contribuições do calendário em todo o período e em 2026, commits públicos nos dois períodos, estrelas, PRs, issues e visitas" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GuiCodeLabs/github-profile-card/main/profile/languages.svg" width="520" alt="Linguagens por bytes de código nos repositórios públicos de Guilherme" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GuiCodeLabs/github-profile-card/main/profile/rhythm.svg" width="520" alt="Sequência atual, maior sequência e atividade recente de Guilherme no calendário do GitHub" />
+</p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=GuiCodeLabs&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt_BR" width="100%" alt="Total de contribuições e sequências atual e mais longa no GitHub" />
-  <p><sub><a href="https://github.com/GuiCodeLabs/github-profile-card">Código aberto do cartão · licença MIT</a></sub></p>
+  <p><sub>Contribuições são atividades do calendário, incluindo contagens privadas anônimas quando habilitadas. Commits públicos são uma parte desse total. Linguagens mostram bytes de código, não experiência.</sub></p>
+  <p><sub><a href="https://github.com/GuiCodeLabs/github-profile-card">Código aberto dos cartões · licença MIT · idiomas PT-BR, EN e ES</a></sub></p>
 </div>
 
 ## 🕹️ Contribuições em movimento

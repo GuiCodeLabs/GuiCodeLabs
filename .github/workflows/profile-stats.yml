@@ -1,0 +1,61 @@
+name: Atualizar estatísticas do perfil
+
+on:
+  schedule:
+    - cron: "31 5 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/profile-stats.yml
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    if: github.repository == 'GuiCodeLabs/GuiCodeLabs' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      # PROFILE_STATS_TOKEN e um secret opcional. Sem ele, github.token gera
+      # os mesmos dados publicos; com ele, a API inclui repositorios privados
+      # aos quais o dono da conta deu acesso.
+      - name: Gerar estatísticas de todo o período
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: stats
+          options: username=GuiCodeLabs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=pt-br
+          path: profile/stats.svg
+          core_version: 2.1.3
+          token: ${{ secrets.PROFILE_STATS_TOKEN || github.token }}
+          fail_on_error: true
+
+      - name: Gerar commits deste ano
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: stats
+          options: username=GuiCodeLabs&show_icons=true&hide=stars,prs,issues,contribs&hide_rank=true&custom_title=Commits%20neste%20ano&card_width=360&theme=tokyonight&hide_border=true&locale=pt-br
+          path: profile/commits-year.svg
+          core_version: 2.1.3
+          token: ${{ secrets.PROFILE_STATS_TOKEN || github.token }}
+          fail_on_error: true
+
+      - name: Publicar cartões gerados
+        shell: bash
+        run: |
+          git add -- profile/stats.svg profile/commits-year.svg
+          if ! git diff --cached --quiet; then
+            git -c user.name='github-actions[bot]' \
+              -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+              commit -m 'Atualiza estatísticas do perfil'
+            git push origin HEAD:main
+          fi

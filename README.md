@@ -71,9 +71,9 @@ Tenho aplicado programação em sistemas web e na **automação de processos e r
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,vercel&amp;theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,vercel&amp;theme=light" />
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&amp;theme=dark" alt="Ícones das ferramentas Git, GitHub, VS Code e Vercel" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cvscode%2Cvercel&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cvscode%2Cvercel&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=git%2Cgithub%2Cvscode%2Cvercel&amp;theme=dark" alt="Ícones das ferramentas Git, GitHub, VS Code e Vercel" />
   </picture>
 </p>
 

@@ -21,7 +21,7 @@ jobs:
         with:
           card: stats
           options: username=${{ github.repository_owner }}&locale=en&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=tokyonight&hide_border=false&order=1&card_width=400
-          path: dist/stats.svg
+          path: dist/stats-card.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 

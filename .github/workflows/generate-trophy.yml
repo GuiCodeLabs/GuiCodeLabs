@@ -1,0 +1,37 @@
+name: Generate trophy card
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: generate trophy.svg
+        run: |
+          mkdir -p dist
+          curl --fail --silent --show-error --location \
+            "https://github-profile-trophy.vercel.app/?username=GuiCodeLabs&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" \
+            --output dist/trophy.svg
+          test -s dist/trophy.svg
+          grep -q "<svg" dist/trophy.svg
+
+      - name: push trophy.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: trophy-output
+          build_dir: dist
+          author: "Guilherme Beserra <173941502+GuiCodeLabs@users.noreply.github.com>"
+          committer: "Guilherme Beserra <173941502+GuiCodeLabs@users.noreply.github.com>"
+          commit_message: "chore(trophy): atualiza cartão de troféus"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

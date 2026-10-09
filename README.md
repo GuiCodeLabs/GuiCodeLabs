@@ -67,7 +67,15 @@ Tenho aplicado programação em sistemas web e na **automação de processos e r
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
 </p>
 
-**Ferramentas:** Git · GitHub · VS Code · Vercel
+**Ferramentas**
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,vercel&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,vercel&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&amp;theme=dark" alt="Ícones das ferramentas Git, GitHub, VS Code e Vercel" />
+  </picture>
+</p>
 
 ## 🚀 Projetos que você pode explorar
 
@@ -113,7 +121,7 @@ Tenho aplicado programação em sistemas web e na **automação de processos e r
   <img src="https://github-readme-stats.vercel.app/api?username=GuiCodeLabs&amp;show_icons=true&amp;include_all_commits=true&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt-br" height="165" alt="Estatísticas públicas de Guilherme no GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCodeLabs&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="Linguagens dos repositórios públicos de Guilherme" />
   <br />
-  <img src="https://streak-stats.demolab.com/?user=GuiCodeLabs&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt_BR" alt="Total de contribuições e sequência atual e mais longa no GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=GuiCodeLabs&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt_BR&amp;hide_total_contributions=true" alt="Sequência atual e mais longa de contribuições no GitHub" />
 </div>
 
 ## 🕹️ Contribuições em movimento

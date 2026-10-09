@@ -126,20 +126,28 @@ Tenho aplicado programação em sistemas web e na **automação de processos e r
 ## 📊 Status do GitHub
 
 <p align="center">
-  <a href="https://github.com/GuiCodeLabs/github-profile-card"><img src="https://raw.githubusercontent.com/GuiCodeLabs/github-profile-card/stats-output/profile/stats.svg" width="410" alt="Status do GitHub: nota anual, contribuições, commits, repositórios, estrelas, PRs e issues" /></a>
-  <img src="https://raw.githubusercontent.com/GuiCodeLabs/github-profile-card/stats-output/profile/languages.svg" width="410" alt="Linguagens agregadas dos repositórios públicos e privados acessíveis" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=GuiCodeLabs&show_icons=true&include_all_commits=true&custom_title=Resumo&title_color=58A6FF&icon_color=79C0FF&text_color=E6EDF3&bg_color=1F232B&border_color=5D626F&hide_border=false&locale=pt-br&rank_icon=percentile&ring_color=58A6FF"
+    height="200"
+    alt="Resumo das estatísticas públicas do GitHub"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCodeLabs&layout=compact&langs_count=5&card_width=320&custom_title=Principais%20linguagens&title_color=58A6FF&text_color=E6EDF3&bg_color=1F232B&border_color=5D626F&hide_border=false&locale=pt-br"
+    height="200"
+    alt="Linguagens dos repositórios públicos próprios"
+  />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/GuiCodeLabs/github-profile-card/stats-output/profile/rhythm-mobile.svg" />
-    <img src="https://raw.githubusercontent.com/GuiCodeLabs/github-profile-card/stats-output/profile/rhythm.svg" width="840" alt="Sequência de contribuições, mapa de atividade recente e conquistas do ano no GitHub" />
-  </picture>
+  <img
+    src="https://streak-stats.demolab.com/?user=GuiCodeLabs&theme=dark&hide_border=false&background=1F232B&border=5D626F&stroke=5D626F&ring=58A6FF&fire=79C0FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=E6EDF3&dates=9EA7B3&locale=pt_BR&hide_total_contributions=true"
+    width="100%"
+    alt="Sequência atual e maior sequência de contribuições no GitHub"
+  />
 </p>
 
 <div align="center">
-  <p><sub>Contagens e linguagens privadas aparecem de forma agregada depois de configurar os tokens opcionais; nomes e código de repositórios privados não são publicados.</sub></p>
-  <p><sub><a href="https://github.com/GuiCodeLabs/github-profile-card">Cartões e gerador web · código aberto · licença MIT · PT-BR, EN e ES</a></sub></p>
+  <p><sub><a href="https://github.com/GuiCodeLabs/github-profile-card">Gerador de cards para README · PT-BR, EN e ES</a></sub></p>
 </div>
 
 ## 🕹️ Contribuições em movimento

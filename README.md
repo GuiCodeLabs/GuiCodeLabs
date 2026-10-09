@@ -111,11 +111,20 @@ Tenho aplicado programação em sistemas web e na **automação de processos e r
       Ferramenta para experimentar backgrounds, visualizar o resultado e obter o código HTML/CSS correspondente.
     </td>
   </tr>
+  <tr>
+    <td valign="top">
+      <strong><a href="https://github.com/GuiCodeLabs/github-profile-card">📊 GitHub Profile Card</a></strong><br />
+      <sub>Python · JavaScript · Vercel · <a href="https://guicodelabs-profile-card.vercel.app">Abrir gerador web →</a></sub>
+    </td>
+    <td valign="top">
+      Cartões SVG originais e gerador web responsivo para montar READMEs de perfil, com suporte a três idiomas e dados privados agregados.
+    </td>
+  </tr>
 </table>
 
 <p align="center"><a href="https://github.com/GuiCodeLabs?tab=repositories"><strong>Ver todos os repositórios públicos →</strong></a></p>
 
-## 📊 GitHub em números
+## 📊 Status do GitHub
 
 <p align="center">
   <a href="https://github.com/GuiCodeLabs/github-profile-card"><img src="https://guicodelabs-profile-card.vercel.app/api/card?type=stats&amp;locale=pt-BR" width="410" alt="Contribuições de 2026 públicas e privadas anônimas, commits visíveis, estrelas, PRs, issues e visitas de Guilherme" /></a>
@@ -130,8 +139,8 @@ Tenho aplicado programação em sistemas web e na **automação de processos e r
 </p>
 
 <div align="center">
-  <p><sub>Quando ativadas, contribuições privadas entram anonimamente no calendário. Commits mostram apenas atividade visível publicamente e não revelam repositórios privados. Linguagens são agregadas; repositórios privados só entram quando o token granular somente de leitura está configurado.</sub></p>
-  <p><sub><a href="https://github.com/GuiCodeLabs/github-profile-card">Código aberto dos cartões · licença MIT · idiomas PT-BR, EN e ES</a></sub></p>
+  <p><sub>Contagens privadas aparecem apenas de forma agregada quando o token somente de leitura está configurado; linguagens privadas entram após selecionar os repositórios no token granular. Nomes e código de repositórios privados não são publicados.</sub></p>
+  <p><sub><a href="https://github.com/GuiCodeLabs/github-profile-card">Cartões e gerador web · código aberto · licença MIT · PT-BR, EN e ES</a></sub></p>
 </div>
 
 ## 🕹️ Contribuições em movimento

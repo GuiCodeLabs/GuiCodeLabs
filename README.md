@@ -120,9 +120,10 @@ Tenho aplicado programação em sistemas web e na **automação de processos e r
 <table align="center" width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=GuiCodeLabs&amp;show_icons=true&amp;include_all_commits=true&amp;hide=contribs&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt-br" width="100%" alt="Estatísticas de Guilherme nos repositórios públicos: estrelas, commits, pull requests e issues" />
-      <br />
-      <img src="https://komarev.com/ghpvc/?username=GuiCodeLabs&amp;label=Visitas+ao+perfil&amp;color=70a5fd&amp;style=flat-square" alt="Contador de visualizações do perfil" />
+      <a href="https://github.com/GuiCodeLabs/github-profile-card">
+        <img src="https://raw.githubusercontent.com/GuiCodeLabs/github-profile-card/main/profile/stats.svg" width="100%" alt="Estatísticas de Guilherme: estrelas, commits públicos de todo o período e do ano atual, pull requests, issues e visitas ao perfil" />
+      </a>
+      <img src="https://komarev.com/ghpvc/?username=GuiCodeLabs&amp;style=pixel" width="1" height="1" alt="" />
     </td>
     <td align="center" valign="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCodeLabs&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight&amp;hide_border=true" width="100%" alt="Linguagens dos repositórios públicos de Guilherme" />
@@ -131,11 +132,8 @@ Tenho aplicado programação em sistemas web e na **automação de processos e r
 </table>
 
 <div align="center">
-  <p><strong>Commits públicos por ano</strong></p>
-  <img src="https://github-readme-stats.vercel.app/api?username=GuiCodeLabs&amp;hide=stars,prs,issues,contribs&amp;hide_rank=true&amp;commits_year=2026&amp;custom_title=Este%20ano%20%282026%29&amp;card_width=340&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt-br" width="48%" alt="Commits públicos de Guilherme em 2026" />
-  <img src="https://github-readme-stats.vercel.app/api?username=GuiCodeLabs&amp;hide=stars,prs,issues,contribs&amp;hide_rank=true&amp;commits_year=2025&amp;custom_title=Ano%20passado%20%282025%29&amp;card_width=340&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt-br" width="48%" alt="Commits públicos de Guilherme em 2025" />
-  <br />
   <img src="https://streak-stats.demolab.com/?user=GuiCodeLabs&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt_BR" width="100%" alt="Total de contribuições e sequências atual e mais longa no GitHub" />
+  <p><sub><a href="https://github.com/GuiCodeLabs/github-profile-card">Código aberto do cartão · licença MIT</a></sub></p>
 </div>
 
 ## 🕹️ Contribuições em movimento
